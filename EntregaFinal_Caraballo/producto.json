@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre": "Ryzen 3", "cantidad":1,  "precio":50000, "stock":10, "img": "/r3p.jpg", "descripcion": "Procesador de 4 GHz", "alt":"microprocesador ryzen 3"},
+    {"id":2, "nombre": "Ryzen 5", "cantidad":1,  "precio":70000, "stock":10, "img": "/r5.png", "descripcion": "Procesador de 4.8 GHz", "alt": "microprocesador ryzen 5"},
+    {"id":3, "nombre": "Intel i5", "cantidad":1, "precio": 65000,"stock": 10,"img": "/i5p.png", "descripcion": "Procesador de  4.2 GHz", "alt": "microprocesador intel i5"},
+    {"id":4, "nombre": "Intel i7", "cantidad":1, "precio": 85000,"stock": 10,"img": "/i7p.jpg", "descripcion": "Procesador de 5 GHz", "alt": "microprocesador intel i7"}
+]
